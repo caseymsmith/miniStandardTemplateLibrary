@@ -1,0 +1,16 @@
+Program is task driven, NOT efficiency driven. 
+
+Mini-STL library program contains the following containers:
+-	miniStackVT (a miniStack implemented using <vector>)
+-	miniStackLT (a miniStack implemented using <list>)
+-	miniStackDA (a miniStack implemented using dynamic array)
+-	miniQueueVT (a miniQueue implemented using <vector>)
+-	miniQueueLT (a miniQueue implemented using <list>)
+-	miniQueueDA (a miniQueue implemented using dynamic array)
+
+Implements a driver program with menu options to allow users to test all containers by:
+-	adding/remove elements to a container, 
+-	displaying the content/size of a container,
+-	displaying the value of the front/top element in a container,
+
+Includes exception handling in library. 
